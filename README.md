@@ -33,11 +33,13 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=echo_rouge&show_icons=true&theme=dark)
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=echo_rouge&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=echo_rouge&show_icons=true&include_all_commits=true&theme=github_dark#gh-dark-mode-only)
 
-![Streak](https://streak-stats.demolab.com?user=echo_rouge&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=echo_rouge&layout=compact&hide=html&theme=github_dark#gh-dark-mode-only)
+
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=echo_rouge&theme=github_dark#gh-dark-mode-only)
+
 
 </div>
 
