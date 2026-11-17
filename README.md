@@ -7,12 +7,12 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=echorouge&show_icons=true&theme=dark)
 
 ## 🔥 Contributions
 
-![Streak](https://streak-stats.demolab.com?user=TON_PSEUDO&theme=dark)
+![Streak](https://streak-stats.demolab.com?user=echorouge&theme=dark)
 
 ## 🚀 Most Used Languages
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=dark)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=echorouge&layout=compact&theme=dark)
