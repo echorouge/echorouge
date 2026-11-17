@@ -33,7 +33,7 @@
 
 <div align="center">
 
-![Stats](https://github-stats-extended.vercel.app/api?username=echo_rouge&show_icons=true&theme=dark)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=echo_rouge&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=echo_rouge&layout=compact&theme=dark)
 
